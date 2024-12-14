@@ -16,7 +16,11 @@ export default {
         'my-color-5': '#F2B035',
         'my-color-6': '#F2E641',
         'my-color-7': '#687E8C',
-        'my-color-8': '#735A10'
+        'my-color-8': '#735A10',
+        'react-blue': '#61dbfb',
+        'typescript-blue': '#007acc',
+        'minion-yellow': '#f0db4f',
+        'dark-charcoal': '#323330'
       }
     }
   },
