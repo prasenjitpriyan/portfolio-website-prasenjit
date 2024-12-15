@@ -1,7 +1,9 @@
 import React from 'react'
 
 const Contact = () => {
-  return <div>Contact</div>
+  return (
+    <div className="min-h-screen flex justify-center items-center">Contact</div>
+  )
 }
 
 export default Contact
