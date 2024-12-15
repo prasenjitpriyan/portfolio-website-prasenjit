@@ -21,6 +21,9 @@ export default {
         'typescript-blue': '#007acc',
         'minion-yellow': '#f0db4f',
         'dark-charcoal': '#323330'
+      },
+      backgroundImage: {
+        snowing: "url('/snowing.gif')"
       }
     }
   },
